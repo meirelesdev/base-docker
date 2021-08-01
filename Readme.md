@@ -1,0 +1,1 @@
+# Configurações Base para desenvolvimento em containers docker PHP Nginx e MySql
