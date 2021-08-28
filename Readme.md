@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Docker](https://docker.com)
 - [PHP](https://www.php.net/)
-- [MySQL](https://reactjs.org/)
+- [MySQL](https://www.mysql.com/)
  
 <a id="como-usar"></a>
 
