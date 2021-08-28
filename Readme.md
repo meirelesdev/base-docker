@@ -80,5 +80,5 @@ Se tiver duvida em como instalar uma extenção php, basta pesquisar no [Google]
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/developer-danielmn/" target="_blank">Daniel Meireles</a>
+    Feito com ❤️ by <a href="https://www.linkedin.com/in/developer-danielmn/" target="_blank">Daniel Meireles</a>
 </h4>
